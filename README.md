@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rashelshub
 - 👀 I’m interested in web3 building on Base
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Eng language and Solidity lang
 - 💞️ I’m looking to collaborate on web3 space
 - 📫 How to reach me millionaiire
 
